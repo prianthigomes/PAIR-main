@@ -93,9 +93,9 @@ module.exports = {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "QUEEN ANJU XPRO ✅",
-                                thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
-                                sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
+                                title: "Pansi-MD-Testing",
+                                thumbnailUrl: "https://raw.githubusercontent.com/prianthigomes/PAIR-main/refs/heads/main/source/Pansi-MD-Testing.png",
+                                sourceUrl: "https://whatsapp.com/channel/",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
                                 showAdAttribution: true,
@@ -134,9 +134,9 @@ module.exports = {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "QUEEN ANJU XPRO",
-                                thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
-                                sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
+                                title: "Pansi-MD-Testing",
+                                thumbnailUrl: "https://raw.githubusercontent.com/prianthigomes/PAIR-main/refs/heads/main/source/Pansi-MD-Testing.png",
+                                sourceUrl: "https://whatsapp.com/channel/",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
                                 showAdAttribution: true,
